@@ -10,7 +10,7 @@ library(data.table)
 ```
 #get list of profiles
 ```{r}
-p<-"/Users/Armand/Desktop/make\ ancient\ vase\ Github\ repo/data/group\ 1"
+p<-"data/profiles"
 a<-files<-list.files(path=p, pattern = "*.csv")
 ```
 #assemble files
