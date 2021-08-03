@@ -22,7 +22,7 @@ dim(a4)
 ```
 #add metadata
 ```{r}
-m<-read.csv("metadata.csv")
+m<-read.csv("data/metadata/metadata.csv")
 a5<-merge(a4, m, by="id")
 ```
 #arrange
@@ -32,5 +32,5 @@ a5<-a4%>%
 ```
 #write
 ```{r}
-write.csv(a5, "all_profiles.csv", row.names=FALSE)
+write.csv(a5, "data/processed/all_profiles.csv", row.names=FALSE)
 ```
