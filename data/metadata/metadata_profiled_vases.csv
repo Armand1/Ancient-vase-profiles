@@ -57,8 +57,7 @@
 1711,9034409,NA,athens,black-figure,chous,NA,NA,NA,NA,NA,NA
 1717,9035738,NA,athens,black painted,pelike,NA,NA,NA,NA,NA,NA
 1723,920,NA,athens,black-figure,hydria,Leagros_group,NA,NA,NA,NA,NA
-404,200013,Louvre F203,athens,red-figure,amphora_a,Andokides_signed as potter,Andokides,Andokides,-550,-500,40.35
-1661,9029664,NA,athens,black-figure,amphora_neck,Medea_group,NA,NA,-550,500,NA
+1661,9029664,NA,athens,black-figure,amphora_neck,Medea_group,NA,NA,-550,-500,NA
 26,1000991,NA,italy_south,black painted,pelike,NA,NA,NA,-360,-270,NA
 28,1001502,NA,italy_south,black painted,pelike,NA,NA,NA,-360,-270,NA
 29,1001503,NA,italy_south,black painted,pelike,NA,NA,NA,-360,-270,NA
@@ -1418,6 +1417,7 @@
 1319,50_330,Budapest 50_330,athens,red-figure,lethykos_cylinder,Brygos_p,Brygos_p_group,Brygos_p_group,-490,-490,15.6
 1320,50_564,Budapest 50_564,athens,black-figure,lethykos_cylinder_broad_shouldered,Kalinderu_p_group,Athens_581_class,Athens_581_class,-490,-490,15.5
 1321,50_738,Budapest 50_738,athens,white ground,lethykos_cylinder,Pholos_p_group,Pholos_p_group,Pholos_p_group,-490,-490,24.5
+404,200013,Louvre F203,athens,red-figure,amphora_a,Andokides_signed as potter,Andokides,Andokides,-550,-500,40.35
 1311,50_152,Budapest 50_152,athens,black-figure,lethykos_cylinder_broad_shouldered,Marathon_p_group,Athens_581_class,Athens_581_class,-500,-500,16
 1314,50_161,Budapest 50_161,athens,white ground,lethykos_cylinder_broad_shouldered,Gela_p,Gela_p_group,Gela_p_group,-500,-500,23.4
 1334,54_2,Budapest 54_2,athens,white ground,lethykos_cylinder,Beldam_p_workshop,Beldam_p_&_Haimon_p_Diosphos_p_group,Beldam_p_&_Haimon_p_group,-500,-500,10.92
